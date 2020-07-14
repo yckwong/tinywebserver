@@ -63,9 +63,6 @@ Quick Start
 ./server [-p port] [-v SQLVerify] [-l LOGWrite] [-m TRIGMode] [-o OPT_LINGER] [-s sql_num] [-t thread_num] [-c close_log] [-a actor_model]
 ```
 
-General Concepts
-----
-![demo](./root/screenCAP.gif)
 
 References
 ----
