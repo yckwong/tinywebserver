@@ -15,7 +15,6 @@ Features
 - Log (synchronous/asynchronous) to record status.
 - Timer to provide a connection close on inactivity timeout. 
 - Database Connection Pool.
-- WebBench to test pressure.
 
 Requirements
 ----
