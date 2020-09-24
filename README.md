@@ -65,7 +65,4 @@ Quick Start
 
 References
 ----
-Refer to Shuang You, High Performance Linux Server Programming;  
-Thanks to [@qinguoyi](https://github.com/qinguoyi/TinyWebServer/).
-
-For more details, please visit my [blog](https://juejin.im/user/5e967d22f265da47c64705bf).
+Refer to Shuang You, High Performance Linux Server Programming.
