@@ -12,7 +12,6 @@ Features
 - Threadpool + epoll + Reactor
 - Realize basic function like register, login, etc when access the server.
 - Accept HTTP requests including GET and POST, which is parsed by finite state machine.
-- Log (synchronous/asynchronous) to record status.
 - Timer to provide a connection close on inactivity timeout. 
 - Database Connection Pool.
 
